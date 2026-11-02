@@ -1,106 +1,74 @@
-# Smart Crop - Admin Login Fixed & Upgraded
+# Smart Crop Management System
 
-## Admin login fix
+Smart Crop is a web application for exploring crop records and farm information. It includes a farmer dashboard, field mapping, historical crop data, reports, and an administrator area for managing farmer announcements.
 
-The previous version could show `admin@smartcrop.com` but still reject the password when an older PostgreSQL row already existed with a different password. This version adds an explicit admin credential reset script.
+## Features
 
-### 1. Create `backend/.env`
+- Browse crop records by district, taluk, year, and crop.
+- View land and water information, weather, crop and fertilizer recommendations, and disease-prevention guidance.
+- Review historical crop data and generate Word reports.
+- Draw or upload a field boundary, estimate its area, and keep crop-season history for a field.
+- Register farmer accounts and publish announcements to signed-in farmers.
+- Manage users and announcements from the administrator dashboard.
 
-Copy `backend/.env.example` to `backend/.env` and set your PostgreSQL password.
+Weather and disease-risk information is informational, not a diagnosis. Mapped field areas are estimates and are not official survey boundaries.
 
-Use these development admin credentials unless you change them:
+## Requirements
 
-- **Admin ID:** `admin@smartcrop.com`
-- **Password:** `Admin@2026`
+- Python 3.10 or later
+- Node.js and npm
+- PostgreSQL
 
-Do not put quotes around the values.
+## Local setup
 
-### 2. Install backend packages
+### 1. Create the PostgreSQL database
 
-Open Command Prompt in the `backend` folder:
+Create a database named `smart_crop` in your local PostgreSQL instance. The backend creates its application tables automatically; `database/schema.sql` is available if you prefer to create the tables manually.
+
+### 2. Configure and start the backend
+
+Create `backend/.env` and set your PostgreSQL connection string and local application secrets:
+
+```env
+DATABASE_URL=postgresql+psycopg2://postgres:<your-postgres-password>@localhost:5432/smart_crop
+JWT_SECRET=<a-long-random-secret>
+ADMIN_EMAIL=admin@smartcrop.com
+ADMIN_PASSWORD=<choose-a-strong-password>
+```
+
+Replace the placeholder values. URL-encode special characters in the PostgreSQL password if needed. The backend has development defaults for these settings, but you should set your own values, especially `JWT_SECRET` and `ADMIN_PASSWORD`, before using the application beyond local development.
+
+In a terminal, run:
 
 ```bat
+cd backend
 python -m pip install -r requirements.txt
+python -m uvicorn main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-### 3. Reset/create the admin account
+On its first startup, the backend creates the configured administrator account if it does not already exist. It also creates the application tables and loads `Smart_Crop_PostgreSQL_Cleaned.csv` when the `crop_records` table is empty. The PostgreSQL database itself must exist before starting the backend.
 
-Run this once whenever you need to create or recover the administrator login:
+Verify the backend at [http://127.0.0.1:8000/health](http://127.0.0.1:8000/health). Interactive API documentation is available at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
+
+### 3. Start the frontend
+
+In a second terminal:
 
 ```bat
-python reset_admin.py
-```
-
-It will create the account if missing, or reset the existing admin password and role.
-
-Expected output includes:
-
-```text
-ADMIN ACCOUNT READY
-Admin ID : admin@smartcrop.com
-Password : Admin@2026
-Role     : admin
-```
-
-### 4. Start the backend
-
-```bat
-python -m uvicorn main:app --reload
-```
-
-Check:
-
-`http://127.0.0.1:8000/health`
-
-It should return a database-connected response.
-
-### 5. Start the frontend
-
-In a second Command Prompt:
-
-```bat
-cd ..\frontend
+cd frontend
 npm install
 npm run dev
 ```
 
-Open the Vite URL shown in the terminal, normally:
+Open the local URL printed by Vite, usually [http://localhost:5173](http://localhost:5173). The frontend uses `http://127.0.0.1:8000` as its API URL by default. To change it, set `VITE_API_URL` in the frontend environment.
 
-`http://localhost:5173`
+## Accounts
 
-Select **Admin Login** and enter:
+- The administrator email and password are configured with `ADMIN_EMAIL` and `ADMIN_PASSWORD` in `backend/.env`. The configured administrator is created on backend startup if it does not exist. A password changed in the app is not reset on subsequent startups.
+- Farmers can create accounts through registration.
+- To create the optional local demo farmer account, run `python seed.py` from `backend`. This script also resets the administrator password to the configured `ADMIN_PASSWORD`; do not run it if you need to preserve an administrator password changed in the app.
+- To explicitly create or reset the administrator account, run `python reset_admin.py` from `backend`. This uses the configured credentials unless command-line options are supplied.
 
-- Email: `admin@smartcrop.com`
-- Password: `Admin@2026`
+## Weather configuration
 
-## If you changed the password
-
-The Admin Dashboard has **Security → Change administrator password**. After changing it, log in using the new password.
-
-If you forget the new password, run:
-
-```bat
-cd backend
-python reset_admin.py
-```
-
-That restores the credentials configured in `backend/.env`.
-
-## Important
-
-`seed.py` now also synchronizes the configured admin password when you intentionally run:
-
-```bat
-python seed.py
-```
-
-The normal backend startup does **not** reset an administrator password, so a password changed from the Admin Dashboard will remain changed across restarts.
-
-The password is stored as a bcrypt hash; the API does not return the plaintext password.
-
-## Farmer account
-
-- Email: `farmer@smartcrop.com`
-- Password: `user123`
-
-Registration creates normal farmer/user accounts only.
+The frontend uses Open-Meteo by default and does not require an API key. To configure another supported weather provider, set the Vite environment variables `VITE_WEATHER_API_URL` and, if required, `VITE_WEATHER_API_KEY`.
