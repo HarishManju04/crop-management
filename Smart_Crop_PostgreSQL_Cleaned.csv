@@ -1,0 +1,225 @@
+year,district,taluk,crop,season,irrigation,farming_type,area_ha,rainfall_mm,temperature_c,humidity,soil_type,net_irrigated_area,groundwater_pre,groundwater_post,recommended_n,recommended_p,recommended_k,yield_kg_ha,taluk_avg_yield_kg_ha
+2019,Mysuru,Hunsur,Coconut,Kharif,Basin,Non-Organic,51353,3105.0,27.1,57.0,Loam,210.72,63.9,50.62,88,56,210,19.0,20.26
+2019,Mysuru,Heggadadevankote,Cotton,Kharif,Basin,Organic,6441,2746.2,43.0,55.0,Black,210.72,63.9,50.62,7,30,9,63931.0,276.91
+2019,Mysuru,Hunsur,Cotton,Kharif,Basin,Organic,6441,2746.2,43.0,55.0,Black,210.72,63.9,50.62,7,30,9,63931.0,349.71
+2019,Mysuru,Mysuru,Cotton,Kharif,Basin,Organic,6441,2746.2,43.0,55.0,Black,210.72,63.9,50.62,7,30,9,63931.0,242.26
+2019,Mysuru,Nanjangud,Cotton,Kharif,Basin,Non-Organic,6441,2746.2,43.0,55.0,Black,210.72,63.9,50.62,7,30,9,63931.0,130.72
+2019,Mysuru,K.R.Nagar,Coconut,Kharif,Spray,Non-Organic,4,233.0,27.1,60.0,Clay,210.72,63.9,50.62,88,56,210,121.0,111.42
+2019,Mysuru,Periyapatana,Ginger,Rabi,Basin,Non-Organic,14464,3296.0,27.0,59.5,Loam,210.72,63.9,50.62,75,50,50,2404.0,2228.08
+2020,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Organic,53,3522.8,41.0,54.0,Clay,210.72,63.9,50.62,35,0,0,1647.0,5550.06
+2020,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Non-Organic,53,3522.8,41.0,54.0,Clay,210.72,63.9,50.62,35,0,0,1647.0,4110.99
+2020,Mysuru,Mysuru,Paddy,Zaid,Spray,Organic,53,3522.8,41.0,54.0,Clay,210.72,63.9,50.62,35,0,0,1647.0,5462.33
+2020,Mysuru,Nanjangud,Paddy,Zaid,Spray,Organic,53,3522.8,41.0,54.0,Clay,210.72,63.9,50.62,35,0,0,1647.0,4992.23
+2020,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,53,3522.8,41.0,54.0,Clay,210.72,63.9,50.62,35,0,0,1647.0,4867.25
+2020,Mysuru,K.R.Nagar,Coconut,Rabi,Drip,Non-Organic,39,3105.0,32.9,53.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,221.0,190.53
+2020,Mysuru,K.R.Nagar,Coconut,Rabi,Drip,Non-Organic,2050,3654.0,39.0,57.0,Sandy loam,210.72,63.9,50.62,88,56,210,41266.0,43873.96
+2020,Mysuru,Nanjangud,Coconut,Rabi,Basin,Organic,6709,2996.6,27.0,53.5,Sandy loam,210.72,63.9,50.62,88,56,210,29.0,25.61
+2020,Mysuru,Mysuru,Pepper,Zaid,Drip,Non-Organic,7714,3654.0,38.0,56.6,Alluvial,210.72,63.9,50.62,80,80,240,75340.0,73968.88
+2020,Mysuru,Heggadadevankote,Coconut,Kharif,Basin,Non-Organic,10922,3654.0,27.0,55.5,Alluvial,210.72,63.9,50.62,88,56,210,45820.0,52465.13
+2020,Mysuru,Mysuru,Coconut,Kharif,Basin,Non-Organic,10318,2903.1,37.0,58.0,Loam,210.72,63.9,50.62,88,56,210,32.0,31.03
+2020,Mysuru,Hunsur,Coconut,Kharif,Basin,Organic,103,2996.6,39.0,57.0,Teelah,210.72,63.9,50.62,88,56,210,56.0,61.32
+2020,Mysuru,Mysuru,Coconut,Kharif,Spray,Organic,5019,3605.4,27.0,57.0,Clay,210.72,63.9,50.62,88,56,210,171739.0,187110.25
+2021,Mysuru,Hunsur,Coconut,Kharif,Spray,Non-Organic,7028,3296.0,27.0,58.0,Clay,210.72,63.9,50.62,88,56,210,1647.0,1474.42
+2021,Mysuru,T-Narsipur,Ginger,Rabi,Basin,Non-Organic,1865,2903.1,39.0,55.0,Laterite,210.72,63.9,50.62,75,50,50,109.0,109.27
+2021,Mysuru,T-Narsipur,Tea,Rabi,Basin,Non-Organic,51,2903.1,42.0,57.0,Laterite,210.72,63.9,50.62,120,40,120,2628.0,2782.38
+2021,Mysuru,T-Narsipur,Arecanut,Rabi,Basin,Non-Organic,11,3360.0,27.0,57.0,Black,210.72,63.9,50.62,160,64,224,4.0,4.43
+2021,Mysuru,Hunsur,Ginger,Rabi,Basin,Non-Organic,16224,3654.0,27.2,56.0,Loam,210.72,63.9,50.62,75,50,50,1939.0,1837.76
+2021,Mysuru,Mysuru,Tea,Rabi,Basin,Non-Organic,17771,233.0,26.8,55.0,Loam,210.72,63.9,50.62,120,40,120,75340.0,69016.89
+2021,Mysuru,T-Narsipur,Tea,Rabi,Spray,Non-Organic,4,3105.0,38.0,50.0,Loam,210.72,63.9,50.62,120,40,120,864.0,918.73
+2021,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2006,2903.1,43.0,59.5,Clay,210.72,63.9,50.62,35,0,0,880.0,5550.06
+2021,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Organic,2006,2903.1,43.0,59.5,Clay,210.72,63.9,50.62,35,0,0,880.0,4110.99
+2021,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,2006,2903.1,43.0,59.5,Clay,210.72,63.9,50.62,35,0,0,880.0,5462.33
+2021,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2006,2903.1,43.0,59.5,Clay,210.72,63.9,50.62,35,0,0,880.0,4992.23
+2021,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Organic,2006,2903.1,43.0,59.5,Clay,210.72,63.9,50.62,35,0,0,880.0,4867.25
+2021,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Organic,2035,2996.6,27.0,53.0,Clay,210.72,63.9,50.62,35,0,0,395.0,5550.06
+2021,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Non-Organic,2035,2996.6,27.0,53.0,Clay,210.72,63.9,50.62,35,0,0,395.0,4110.99
+2021,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,2035,2996.6,27.0,53.0,Clay,210.72,63.9,50.62,35,0,0,395.0,5462.33
+2021,Mysuru,Nanjangud,Paddy,Zaid,Spray,Organic,2035,2996.6,27.0,53.0,Clay,210.72,63.9,50.62,35,0,0,395.0,4992.23
+2021,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Organic,2035,2996.6,27.0,53.0,Clay,210.72,63.9,50.62,35,0,0,395.0,4867.25
+2021,Mysuru,Nanjangud,Groundnut,Zaid,Spray,Non-Organic,1865,3729.8,27.2,57.0,Red,210.72,63.9,50.62,14,41,0,3961.0,4328.78
+2021,Mysuru,Periyapatana,Coconut,Rabi,Drip,Organic,3,2903.1,32.9,57.5,Sandy clay loam,210.72,63.9,50.62,88,56,210,119359.0,113940.08
+2021,Mysuru,Hunsur,Coconut,Rabi,Drip,Organic,13736,2903.1,32.9,54.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,9230.0,8111.81
+2021,Mysuru,Hunsur,Coconut,Rabi,Drip,Non-Organic,619,234.0,27.0,57.0,Sandy loam,210.72,63.9,50.62,88,56,210,21400.0,24228.16
+2021,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,211,234.0,27.2,60.0,Sandy loam,210.72,63.9,50.62,88,56,210,382.0,370.26
+2021,Mysuru,Hunsur,Coconut,Rabi,Drip,Organic,2311,2903.1,26.8,55.5,Sandy loam,210.72,63.9,50.62,88,56,210,221.0,222.18
+2021,Mysuru,Hunsur,Coconut,Rabi,Drip,Non-Organic,568,233.0,41.0,58.0,Sandy,210.72,63.9,50.62,88,56,210,44313.0,48802.48
+2021,Mysuru,T-Narsipur,Coconut,Rabi,Drip,Non-Organic,177,234.0,42.0,50.0,Sandy,210.72,63.9,50.62,88,56,210,49084.0,51671.07
+2021,Mysuru,Mysuru,Coconut,Rabi,Drip,Organic,173,3105.0,42.0,53.0,Sandy,210.72,63.9,50.62,88,56,210,57642.0,61709.5
+2021,Mysuru,T-Narsipur,Coconut,Rabi,Basin,Non-Organic,74,2903.1,27.0,57.0,Sandy,210.72,63.9,50.62,88,56,210,95.0,86.71
+2021,Mysuru,Periyapatana,Coconut,Rabi,Basin,Non-Organic,4803,3729.8,27.1,57.0,Sandy loam,210.72,63.9,50.62,88,56,210,26.0,26.32
+2021,Mysuru,Periyapatana,Cardamum,Zaid,Drip,Non-Organic,4954,3512.4,27.2,53.0,Sandy loam,210.72,63.9,50.62,120,120,240,3671.0,3886.62
+2021,Mysuru,T-Narsipur,Pepper,Zaid,Basin,Non-Organic,6,234.0,39.0,53.0,Alluvial,210.72,63.9,50.62,80,80,240,592.0,543.79
+2022,Mysuru,K.R.Nagar,Coconut,Kharif,Basin,Non-Organic,142,3105.0,27.1,55.0,Loam,210.72,63.9,50.62,88,56,210,54.0,49.17
+2022,Mysuru,Heggadadevankote,Cotton,Kharif,Basin,Organic,4012,2746.2,43.0,53.0,Black,210.72,63.9,50.62,7,30,9,73730.0,276.91
+2022,Mysuru,Hunsur,Cotton,Kharif,Basin,Non-Organic,4012,2746.2,43.0,53.0,Black,210.72,63.9,50.62,7,30,9,73730.0,349.71
+2022,Mysuru,Mysuru,Cotton,Kharif,Basin,Organic,4012,2746.2,43.0,53.0,Black,210.72,63.9,50.62,7,30,9,73730.0,242.26
+2022,Mysuru,Nanjangud,Cotton,Kharif,Basin,Organic,4012,2746.2,43.0,53.0,Black,210.72,63.9,50.62,7,30,9,73730.0,130.72
+2022,Mysuru,T-Narsipur,Ginger,Rabi,Basin,Non-Organic,1468,2996.6,40.0,52.5,Laterite,210.72,63.9,50.62,75,50,50,2404.0,2689.42
+2022,Mysuru,Nanjangud,Ginger,Rabi,Basin,Non-Organic,14876,3296.0,27.0,55.0,Loam,210.72,63.9,50.62,75,50,50,2805.0,2784.27
+2022,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2688,3522.8,41.0,54.5,Clay,210.72,63.9,50.62,35,0,0,975.0,5550.06
+2022,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Non-Organic,2688,3522.8,41.0,54.5,Clay,210.72,63.9,50.62,35,0,0,975.0,4110.99
+2022,Mysuru,Mysuru,Paddy,Zaid,Spray,Organic,2688,3522.8,41.0,54.5,Clay,210.72,63.9,50.62,35,0,0,975.0,5462.33
+2022,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2688,3522.8,41.0,54.5,Clay,210.72,63.9,50.62,35,0,0,975.0,4992.23
+2022,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,2688,3522.8,41.0,54.5,Clay,210.72,63.9,50.62,35,0,0,975.0,4867.25
+2022,Mysuru,Hunsur,Coconut,Rabi,Drip,Organic,6,3105.0,32.9,53.5,Sandy clay loam,210.72,63.9,50.62,88,56,210,15362.0,15653.61
+2022,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,15,2996.6,32.9,58.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,41266.0,43686.45
+2022,Mysuru,T-Narsipur,Coconut,Rabi,Drip,Organic,4,3654.0,27.0,54.0,Sandy loam,210.72,63.9,50.62,88,56,210,336.0,299.64
+2022,Mysuru,T-Narsipur,Coconut,Rabi,Drip,Non-Organic,1865,3654.0,40.0,55.0,Sandy loam,210.72,63.9,50.62,88,56,210,8838.0,9114.85
+2022,Mysuru,Hunsur,Coconut,Rabi,Basin,Organic,6186,3522.8,27.0,52.5,Sandy loam,210.72,63.9,50.62,88,56,210,44.0,44.53
+2022,Mysuru,Mysuru,Pepper,Zaid,Drip,Non-Organic,7856,233.0,38.0,55.5,Alluvial,210.72,63.9,50.62,80,80,240,29170.0,26571.49
+2022,Mysuru,Periyapatana,Coconut,Kharif,Basin,Non-Organic,51390,3654.0,27.0,58.5,Alluvial,210.72,63.9,50.62,88,56,210,49084.0,44297.65
+2022,Mysuru,Mysuru,Coconut,Kharif,Basin,Organic,48083,2903.1,37.0,59.0,Loam,210.72,63.9,50.62,88,56,210,8.0,9.16
+2022,Mysuru,Heggadadevankote,Coconut,Kharif,Basin,Non-Organic,8239,2996.6,40.0,60.0,Teelah,210.72,63.9,50.62,88,56,210,26.0,26.13
+2022,Mysuru,T-Narsipur,Coconut,Kharif,Spray,Non-Organic,5127,3605.4,27.0,57.5,Clay,210.72,63.9,50.62,88,56,210,172475.0,160099.7
+2022,Mysuru,Nanjangud,Coconut,Kharif,Spray,Organic,7403,3296.0,27.0,58.0,Clay,210.72,63.9,50.62,88,56,210,975.0,1120.15
+2022,Mysuru,Nanjangud,Ginger,Rabi,Basin,Organic,1841,2996.6,40.0,53.0,Laterite,210.72,63.9,50.62,75,50,50,3368.0,3838.26
+2022,Mysuru,Hunsur,Tea,Rabi,Basin,Non-Organic,173,2903.1,42.0,55.0,Sandy loam,210.72,63.9,50.62,120,40,120,1939.0,1972.91
+2022,Mysuru,Periyapatana,Arecanut,Rabi,Basin,Non-Organic,4,3360.0,27.0,57.0,Black,210.72,63.9,50.62,160,64,224,9.0,10.03
+2022,Mysuru,Nanjangud,Ginger,Rabi,Basin,Organic,17095,3654.0,27.1,57.0,Loam,210.72,63.9,50.62,75,50,50,1871.0,1696.27
+2022,Mysuru,Hunsur,Tea,Rabi,Basin,Non-Organic,17825,233.0,26.8,56.0,Loam,210.72,63.9,50.62,120,40,120,29170.0,27234.9
+2022,Mysuru,Heggadadevankote,Tea,Rabi,Spray,Organic,1122,3105.0,38.0,54.0,Loam,210.72,63.9,50.62,120,40,120,5373.0,5695.96
+2022,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2034,2996.6,27.0,55.0,Clay,210.72,63.9,50.62,35,0,0,770.0,5550.06
+2022,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Organic,2034,2996.6,27.0,55.0,Clay,210.72,63.9,50.62,35,0,0,770.0,4110.99
+2022,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,2034,2996.6,27.0,55.0,Clay,210.72,63.9,50.62,35,0,0,770.0,5462.33
+2022,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2034,2996.6,27.0,55.0,Clay,210.72,63.9,50.62,35,0,0,770.0,4992.23
+2022,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,2034,2996.6,27.0,55.0,Clay,210.72,63.9,50.62,35,0,0,770.0,4867.25
+2022,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Organic,2074,2996.6,27.0,53.5,Clay,210.72,63.9,50.62,35,0,0,187.0,5550.06
+2022,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Non-Organic,2074,2996.6,27.0,53.5,Clay,210.72,63.9,50.62,35,0,0,187.0,4110.99
+2022,Mysuru,Mysuru,Paddy,Zaid,Spray,Organic,2074,2996.6,27.0,53.5,Clay,210.72,63.9,50.62,35,0,0,187.0,5462.33
+2022,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2074,2996.6,27.0,53.5,Clay,210.72,63.9,50.62,35,0,0,187.0,4992.23
+2022,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,2074,2996.6,27.0,53.5,Clay,210.72,63.9,50.62,35,0,0,187.0,4867.25
+2022,Mysuru,Mysuru,Groundnut,Zaid,Spray,Organic,1841,3729.8,27.2,55.0,Red,210.72,63.9,50.62,14,41,0,4247.0,4688.68
+2022,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,9,2903.1,32.9,57.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,283.0,313.25
+2022,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,391,234.0,27.2,57.0,Sandy loam,210.72,63.9,50.62,88,56,210,122102.0,118604.08
+2022,Mysuru,Nanjangud,Coconut,Rabi,Drip,Non-Organic,153,3105.0,27.2,57.0,Sandy loam,210.72,63.9,50.62,88,56,210,19578.0,21855.53
+2022,Mysuru,Heggadadevankote,Coconut,Rabi,Drip,Non-Organic,2188,2903.1,26.8,58.5,Sandy loam,210.72,63.9,50.62,88,56,210,15362.0,16979.29
+2022,Mysuru,Nanjangud,Coconut,Rabi,Drip,Organic,407,234.0,41.0,59.0,Sandy,210.72,63.9,50.62,88,56,210,45820.0,51808.24
+2022,Mysuru,Periyapatana,Coconut,Rabi,Drip,Organic,51,234.0,42.0,54.0,Sandy,210.72,63.9,50.62,88,56,210,86311.0,93699.41
+2022,Mysuru,Nanjangud,Coconut,Rabi,Drip,Non-Organic,201,3105.0,43.0,52.0,Sandy,210.72,63.9,50.62,88,56,210,58405.0,61365.93
+2022,Mysuru,Heggadadevankote,Coconut,Rabi,Basin,Non-Organic,18,2903.1,27.0,57.0,Sandy,210.72,63.9,50.62,88,56,210,19.0,19.46
+2022,Mysuru,Heggadadevankote,Coconut,Rabi,Basin,Non-Organic,3739,3729.8,27.1,55.0,Sandy loam,210.72,63.9,50.62,88,56,210,98.0,94.25
+2022,Mysuru,Periyapatana,Coconut,Rabi,Basin,Non-Organic,3529,2746.2,27.1,56.0,Sandy loam,210.72,63.9,50.62,88,56,210,3.0,3.4
+2022,Mysuru,Heggadadevankote,Cardamum,Zaid,Drip,Non-Organic,5019,3512.4,27.1,52.0,Sandy loam,210.72,63.9,50.62,120,120,240,2404.0,2745.61
+2022,Mysuru,Heggadadevankote,Pepper,Zaid,Basin,Non-Organic,15,234.0,40.0,53.5,Alluvial,210.72,63.9,50.62,80,80,240,864.0,807.99
+2023,Mysuru,Nanjangud,Coconut,Kharif,Basin,Non-Organic,10505,236.0,26.8,56.0,Loam,210.72,63.9,50.62,88,56,210,13.0,14.73
+2023,Mysuru,Heggadadevankote,Coconut,Kharif,Basin,Non-Organic,158,2903.1,38.0,52.0,Teelah,210.72,63.9,50.62,88,56,210,44.0,45.31
+2023,Mysuru,Mysuru,Coconut,Kharif,Spray,Non-Organic,4877,3360.0,27.0,53.5,Clay,210.72,63.9,50.62,88,56,210,118416.0,125335.7
+2023,Mysuru,Hunsur,Coconut,Kharif,Spray,Organic,5294,3512.4,27.2,55.0,Clay,210.72,63.9,50.62,88,56,210,313547.0,349335.36
+2023,Mysuru,T-Narsipur,Ginger,Rabi,Basin,Non-Organic,2090,236.0,38.0,55.5,Laterite,210.72,63.9,50.62,75,50,50,2810.0,2914.83
+2023,Mysuru,Nanjangud,Ginger,Rabi,Basin,Non-Organic,568,3522.8,41.0,56.0,Laterite,210.72,63.9,50.62,75,50,50,2805.0,2633.03
+2023,Mysuru,Mysuru,Arecanut,Rabi,Basin,Non-Organic,3,2746.2,43.0,53.0,Black,210.72,63.9,50.62,160,64,224,5518.0,4864.94
+2023,Mysuru,Heggadadevankote,Ginger,Rabi,Basin,Non-Organic,14976,3550.0,27.0,53.0,Loam,210.72,63.9,50.62,75,50,50,2331.0,2300.6
+2023,Mysuru,Heggadadevankote,Tea,Rabi,Basin,Non-Organic,2578,234.0,37.0,58.0,Loam,210.72,63.9,50.62,120,40,120,972.0,889.9
+2023,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2311,3522.8,42.0,56.6,Clay,210.72,63.9,50.62,35,0,0,2.0,5550.06
+2023,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Organic,2311,3522.8,42.0,56.6,Clay,210.72,63.9,50.62,35,0,0,2.0,4110.99
+2023,Mysuru,Mysuru,Paddy,Zaid,Spray,Organic,2311,3522.8,42.0,56.6,Clay,210.72,63.9,50.62,35,0,0,2.0,5462.33
+2023,Mysuru,Nanjangud,Paddy,Zaid,Spray,Organic,2311,3522.8,42.0,56.6,Clay,210.72,63.9,50.62,35,0,0,2.0,4992.23
+2023,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,2311,3522.8,42.0,56.6,Clay,210.72,63.9,50.62,35,0,0,2.0,4867.25
+2023,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2090,3522.8,27.0,56.0,Clay,210.72,63.9,50.62,35,0,0,121.0,5550.06
+2023,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Organic,2090,3522.8,27.0,56.0,Clay,210.72,63.9,50.62,35,0,0,121.0,4110.99
+2023,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,2090,3522.8,27.0,56.0,Clay,210.72,63.9,50.62,35,0,0,121.0,5462.33
+2023,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2090,3522.8,27.0,56.0,Clay,210.72,63.9,50.62,35,0,0,121.0,4992.23
+2023,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Organic,2090,3522.8,27.0,56.0,Clay,210.72,63.9,50.62,35,0,0,121.0,4867.25
+2023,Mysuru,K.R.Nagar,Coconut,Rabi,Drip,Non-Organic,12,3105.0,32.9,52.5,Sandy clay loam,210.72,63.9,50.62,88,56,210,120373.0,117358.02
+2023,Mysuru,K.R.Nagar,Coconut,Rabi,Drip,Organic,8,3522.8,32.9,58.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,8838.0,9854.23
+2023,Mysuru,Periyapatana,Coconut,Rabi,Drip,Non-Organic,1122,233.0,27.0,53.0,Sandy loam,210.72,63.9,50.62,88,56,210,22594.0,21403.38
+2023,Mysuru,Hunsur,Coconut,Rabi,Drip,Organic,76,3105.0,27.1,54.0,Sandy loam,210.72,63.9,50.62,88,56,210,231.0,204.81
+2023,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,1841,3654.0,40.0,56.0,Sandy loam,210.72,63.9,50.62,88,56,210,8954.0,8567.99
+2023,Mysuru,Mysuru,Coconut,Rabi,Basin,Non-Organic,243,236.0,27.0,57.0,Sandy,210.72,63.9,50.62,88,56,210,109506.0,122871.05
+2023,Mysuru,Periyapatana,Coconut,Rabi,Basin,Organic,6503,3522.8,27.2,56.0,Sandy loam,210.72,63.9,50.62,88,56,210,33.0,30.74
+2023,Mysuru,T-Narsipur,Pepper,Zaid,Drip,Organic,32,233.0,38.0,58.5,Alluvial,210.72,63.9,50.62,80,80,240,1901.0,1985.23
+2023,Mysuru,Mysuru,Coconut,Kharif,Basin,Non-Organic,177,3654.0,27.0,59.5,Alluvial,210.72,63.9,50.62,88,56,210,86311.0,81271.23
+2023,Mysuru,Periyapatana,Coconut,Kharif,Basin,Non-Organic,143,2996.6,37.0,50.0,Loam,210.72,63.9,50.62,88,56,210,50.0,49.78
+2023,Mysuru,K.R.Nagar,Coconut,Kharif,Basin,Non-Organic,44563,2996.6,40.0,57.0,Teelah,210.72,63.9,50.62,88,56,210,98.0,96.48
+2023,Mysuru,K.R.Nagar,Coconut,Kharif,Spray,Non-Organic,5174,3605.4,27.0,57.0,Clay,210.72,63.9,50.62,88,56,210,177939.0,204333.98
+2023,Mysuru,Heggadadevankote,Coconut,Kharif,Spray,Organic,7501,3296.0,27.0,59.0,Clay,210.72,63.9,50.62,88,56,210,2.0,1.81
+2023,Mysuru,K.R.Nagar,Ginger,Rabi,Basin,Organic,1799,2996.6,40.0,53.5,Laterite,210.72,63.9,50.62,75,50,50,3671.0,3140.26
+2023,Mysuru,K.R.Nagar,Tea,Rabi,Basin,Non-Organic,201,2903.1,42.0,56.0,Sandy loam,210.72,63.9,50.62,120,40,120,1871.0,1867.57
+2023,Mysuru,Heggadadevankote,Arecanut,Rabi,Basin,Non-Organic,17,3729.8,43.0,54.0,Black,210.72,63.9,50.62,160,64,224,5107.0,4614.92
+2023,Mysuru,K.R.Nagar,Arecanut,Rabi,Basin,Organic,15,3360.0,27.0,60.0,Black,210.72,63.9,50.62,160,64,224,12.0,11.52
+2023,Mysuru,Nanjangud,Ginger,Rabi,Basin,Organic,17512,3654.0,27.1,57.5,Loam,210.72,63.9,50.62,75,50,50,1868.0,2004.83
+2023,Mysuru,Hunsur,Tea,Rabi,Basin,Non-Organic,3147,234.0,26.8,54.0,Loam,210.72,63.9,50.62,120,40,120,1901.0,2027.0
+2023,Mysuru,Periyapatana,Tea,Rabi,Spray,Organic,917,236.0,38.0,53.0,Loam,210.72,63.9,50.62,120,40,120,6589.0,6209.59
+2023,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Organic,2127,3522.8,27.0,52.5,Clay,210.72,63.9,50.62,35,0,0,187.0,5550.06
+2023,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Non-Organic,2127,3522.8,27.0,52.5,Clay,210.72,63.9,50.62,35,0,0,187.0,4110.99
+2023,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,2127,3522.8,27.0,52.5,Clay,210.72,63.9,50.62,35,0,0,187.0,5462.33
+2023,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2127,3522.8,27.0,52.5,Clay,210.72,63.9,50.62,35,0,0,187.0,4992.23
+2023,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Organic,2127,3522.8,27.0,52.5,Clay,210.72,63.9,50.62,35,0,0,187.0,4867.25
+2023,Mysuru,Hunsur,Groundnut,Zaid,Spray,Non-Organic,1799,2746.2,27.0,56.0,Red,210.72,63.9,50.62,14,41,0,3290.0,3331.99
+2023,Mysuru,Heggadadevankote,Coconut,Rabi,Drip,Organic,21,2903.1,32.9,55.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,17690.0,17736.78
+2023,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,111,3105.0,27.1,57.0,Sandy loam,210.72,63.9,50.62,88,56,210,121037.0,125987.39
+2023,Mysuru,Periyapatana,Coconut,Rabi,Drip,Non-Organic,1998,2903.1,37.0,59.5,Sandy loam,210.72,63.9,50.62,88,56,210,120373.0,111361.7
+2023,Mysuru,Heggadadevankote,Coconut,Rabi,Drip,Non-Organic,206,3105.0,43.0,51.0,Sandy,210.72,63.9,50.62,88,56,210,60751.0,62388.92
+2023,Mysuru,Mysuru,Coconut,Rabi,Basin,Non-Organic,37,2996.6,27.0,54.0,Sandy,210.72,63.9,50.62,88,56,210,54.0,61.76
+2023,Mysuru,Hunsur,Cardamum,Zaid,Drip,Non-Organic,5127,3296.0,27.1,51.0,Sandy loam,210.72,63.9,50.62,120,120,240,2805.0,2793.84
+2023,Mysuru,Heggadadevankote,Pepper,Zaid,Basin,Non-Organic,4,3105.0,40.0,52.5,Alluvial,210.72,63.9,50.62,80,80,240,5373.0,6027.59
+2024,Mysuru,T-Narsipur,Coconut,Kharif,Basin,Non-Organic,51040,236.0,26.8,54.0,Loam,210.72,63.9,50.62,88,56,210,123.0,104.57
+2024,Mysuru,Periyapatana,Coconut,Kharif,Basin,Non-Organic,8982,2903.1,39.0,51.0,Teelah,210.72,63.9,50.62,88,56,210,33.0,31.54
+2024,Mysuru,T-Narsipur,Coconut,Kharif,Spray,Non-Organic,4930,3360.0,27.0,52.5,Clay,210.72,63.9,50.62,88,56,210,130132.0,122510.74
+2024,Mysuru,K.R.Nagar,Coconut,Kharif,Spray,Non-Organic,5474,3512.4,27.2,56.0,Clay,210.72,63.9,50.62,88,56,210,2783.0,2503.02
+2024,Mysuru,Mysuru,Ginger,Rabi,Basin,Organic,2059,2903.1,39.0,58.5,Laterite,210.72,63.9,50.62,75,50,50,841.0,849.6
+2024,Mysuru,Periyapatana,Ginger,Rabi,Basin,Non-Organic,407,3522.8,41.0,57.0,Laterite,210.72,63.9,50.62,75,50,50,2331.0,2320.39
+2024,Mysuru,Mysuru,Arecanut,Rabi,Basin,Organic,9,2746.2,27.0,52.0,Black,210.72,63.9,50.62,160,64,224,4912.0,5195.57
+2024,Mysuru,Heggadadevankote,Ginger,Rabi,Basin,Non-Organic,15009,3550.0,27.2,53.5,Loam,210.72,63.9,50.62,75,50,50,2088.0,1943.56
+2024,Mysuru,K.R.Nagar,Tea,Rabi,Basin,Non-Organic,1591,234.0,37.0,58.0,Loam,210.72,63.9,50.62,120,40,120,874.0,806.91
+2024,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2188,2903.1,42.0,55.5,Clay,210.72,63.9,50.62,35,0,0,836.0,5550.06
+2024,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Organic,2188,2903.1,42.0,55.5,Clay,210.72,63.9,50.62,35,0,0,836.0,4110.99
+2024,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,2188,2903.1,42.0,55.5,Clay,210.72,63.9,50.62,35,0,0,836.0,5462.33
+2024,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2188,2903.1,42.0,55.5,Clay,210.72,63.9,50.62,35,0,0,836.0,4992.23
+2024,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,2188,2903.1,42.0,55.5,Clay,210.72,63.9,50.62,35,0,0,836.0,4867.25
+2024,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2059,3522.8,27.0,57.0,Clay,210.72,63.9,50.62,35,0,0,103.0,5550.06
+2024,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Non-Organic,2059,3522.8,27.0,57.0,Clay,210.72,63.9,50.62,35,0,0,103.0,4110.99
+2024,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,2059,3522.8,27.0,57.0,Clay,210.72,63.9,50.62,35,0,0,103.0,5462.33
+2024,Mysuru,Nanjangud,Paddy,Zaid,Spray,Organic,2059,3522.8,27.0,57.0,Clay,210.72,63.9,50.62,35,0,0,103.0,4992.23
+2024,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,2059,3522.8,27.0,57.0,Clay,210.72,63.9,50.62,35,0,0,103.0,4867.25
+2024,Mysuru,Nanjangud,Coconut,Rabi,Drip,Non-Organic,3,236.0,32.9,56.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,291.0,262.04
+2024,Mysuru,K.R.Nagar,Coconut,Rabi,Drip,Non-Organic,29,3522.8,32.9,59.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,8954.0,8198.54
+2024,Mysuru,Periyapatana,Coconut,Rabi,Drip,Non-Organic,917,233.0,27.0,52.0,Sandy loam,210.72,63.9,50.62,88,56,210,116481.07,118511.41
+2024,Mysuru,Nanjangud,Coconut,Rabi,Drip,Non-Organic,53,236.0,27.1,54.5,Sandy loam,210.72,63.9,50.62,88,56,210,18951.0,18404.28
+2024,Mysuru,Heggadadevankote,Coconut,Rabi,Drip,Non-Organic,1799,233.0,40.0,54.0,Sandy,210.72,63.9,50.62,88,56,210,42915.0,37313.21
+2024,Mysuru,Periyapatana,Coconut,Rabi,Basin,Non-Organic,123,236.0,27.0,57.0,Sandy,210.72,63.9,50.62,88,56,210,114.0,105.58
+2024,Mysuru,Hunsur,Coconut,Rabi,Basin,Organic,5220,3522.8,27.2,57.0,Sandy loam,210.72,63.9,50.62,88,56,210,14.0,12.94
+2024,Mysuru,Mysuru,Pepper,Zaid,Drip,Organic,1,233.0,39.0,59.5,Alluvial,210.72,63.9,50.62,80,80,240,972.0,1029.24
+2024,Mysuru,Periyapatana,Coconut,Kharif,Basin,Organic,9283,2996.6,38.0,54.0,Loam,210.72,63.9,50.62,88,56,210,10.0,9.8
+2024,Mysuru,Periyapatana,Tea,Rabi,Basin,Non-Organic,206,2996.6,43.0,54.0,Sandy loam,210.72,63.9,50.62,120,40,120,1868.0,1783.98
+2025,Mysuru,Periyapatana,Coconut,Kharif,Basin,Non-Organic,10912,3105.0,27.1,57.5,Loam,210.72,63.9,50.62,88,56,210,95.0,99.81
+2025,Mysuru,Heggadadevankote,Cotton,Kharif,Basin,Non-Organic,95,2746.2,42.0,59.5,Black,210.72,63.9,50.62,7,30,9,63504.0,276.91
+2025,Mysuru,Hunsur,Cotton,Kharif,Basin,Non-Organic,95,2746.2,42.0,59.5,Black,210.72,63.9,50.62,7,30,9,63504.0,349.71
+2025,Mysuru,Mysuru,Cotton,Kharif,Basin,Non-Organic,95,2746.2,42.0,59.5,Black,210.72,63.9,50.62,7,30,9,63504.0,242.26
+2025,Mysuru,Nanjangud,Cotton,Kharif,Basin,Organic,95,2746.2,42.0,59.5,Black,210.72,63.9,50.62,7,30,9,63504.0,130.72
+2025,Mysuru,Mysuru,Coconut,Kharif,Spray,Organic,15,233.0,27.1,57.0,Clay,210.72,63.9,50.62,88,56,210,187.0,196.31
+2025,Mysuru,Nanjangud,Ginger,Rabi,Basin,Organic,14319,3296.0,27.0,58.5,Loam,210.72,63.9,50.62,75,50,50,3671.0,3771.55
+2025,Mysuru,Periyapatana,Paddy,Rabi,Spray,Non-Organic,76,2996.6,41.0,57.0,Clay,210.72,63.9,50.62,35,0,0,1533.0,1429.39
+2025,Mysuru,K.R.Nagar,Coconut,Rabi,Drip,Non-Organic,4,234.0,32.9,55.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,110579.0,112610.67
+2025,Mysuru,Nanjangud,Coconut,Rabi,Drip,Non-Organic,2059,3550.0,39.0,57.5,Sandy loam,210.72,63.9,50.62,88,56,210,8700.0,8394.44
+2025,Mysuru,Nanjangud,Coconut,Rabi,Basin,Organic,6470,2996.6,27.0,53.0,Sandy loam,210.72,63.9,50.62,88,56,210,10.0,11.42
+2025,Mysuru,Periyapatana,Pepper,Zaid,Drip,Non-Organic,7501,3654.0,37.0,54.5,Alluvial,210.72,63.9,50.62,80,80,240,127919.0,141308.81
+2025,Mysuru,Heggadadevankote,Coconut,Kharif,Basin,Organic,154,2903.1,26.8,58.0,Loam,210.72,63.9,50.62,88,56,210,19.0,20.21
+2025,Mysuru,Mysuru,Coconut,Kharif,Basin,Non-Organic,46990,2903.1,39.0,57.0,Teelah,210.72,63.9,50.62,88,56,210,14.0,12.52
+2025,Mysuru,T-Narsipur,Coconut,Kharif,Spray,Non-Organic,4954,3360.0,27.0,56.0,Clay,210.72,63.9,50.62,88,56,210,154889.0,178017.36
+2025,Mysuru,Hunsur,Coconut,Kharif,Spray,Non-Organic,5864,3512.4,27.2,54.0,Clay,210.72,63.9,50.62,88,56,210,1533.0,1425.74
+2025,Mysuru,Hunsur,Ginger,Rabi,Basin,Non-Organic,2050,2903.1,39.0,59.5,Laterite,210.72,63.9,50.62,75,50,50,3550.0,4057.59
+2025,Mysuru,Heggadadevankote,Ginger,Rabi,Basin,Organic,177,3522.8,41.0,57.5,Laterite,210.72,63.9,50.62,75,50,50,2088.0,2032.27
+2025,Mysuru,Hunsur,Arecanut,Rabi,Basin,Non-Organic,21,2746.2,27.0,51.0,Black,210.72,63.9,50.62,160,64,224,3830.0,3293.48
+2025,Mysuru,Nanjangud,Ginger,Rabi,Basin,Non-Organic,15114,3550.0,27.2,52.5,Loam,210.72,63.9,50.62,75,50,50,2628.0,2505.85
+2025,Mysuru,Hunsur,Tea,Rabi,Basin,Organic,17587,233.0,27.1,57.0,Loam,210.72,63.9,50.62,120,40,120,127919.0,133074.83
+2025,Mysuru,Mysuru,Tea,Rabi,Spray,Organic,1298,3105.0,37.0,59.0,Loam,210.72,63.9,50.62,120,40,120,592.0,624.09
+2025,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Organic,1998,2903.1,42.0,58.5,Clay,210.72,63.9,50.62,35,0,0,806.0,5550.06
+2025,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Organic,1998,2903.1,42.0,58.5,Clay,210.72,63.9,50.62,35,0,0,806.0,4110.99
+2025,Mysuru,Mysuru,Paddy,Zaid,Spray,Non-Organic,1998,2903.1,42.0,58.5,Clay,210.72,63.9,50.62,35,0,0,806.0,5462.33
+2025,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,1998,2903.1,42.0,58.5,Clay,210.72,63.9,50.62,35,0,0,806.0,4992.23
+2025,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,1998,2903.1,42.0,58.5,Clay,210.72,63.9,50.62,35,0,0,806.0,4867.25
+2025,Mysuru,Heggadadevankote,Paddy,Zaid,Spray,Non-Organic,2050,3729.8,27.2,57.5,Clay,210.72,63.9,50.62,35,0,0,71.0,5550.06
+2025,Mysuru,K.R.Nagar,Paddy,Zaid,Spray,Non-Organic,2050,3729.8,27.2,57.5,Clay,210.72,63.9,50.62,35,0,0,71.0,4110.99
+2025,Mysuru,Mysuru,Paddy,Zaid,Spray,Organic,2050,3729.8,27.2,57.5,Clay,210.72,63.9,50.62,35,0,0,71.0,5462.33
+2025,Mysuru,Nanjangud,Paddy,Zaid,Spray,Non-Organic,2050,3729.8,27.2,57.5,Clay,210.72,63.9,50.62,35,0,0,71.0,4992.23
+2025,Mysuru,T-Narsipur,Paddy,Zaid,Spray,Non-Organic,2050,3729.8,27.2,57.5,Clay,210.72,63.9,50.62,35,0,0,71.0,4867.25
+2025,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,17,236.0,32.9,57.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,17231.0,17390.91
+2025,Mysuru,Periyapatana,Coconut,Rabi,Drip,Non-Organic,1,3522.8,32.9,50.0,Sandy clay loam,210.72,63.9,50.62,88,56,210,42915.0,42242.73
+2025,Mysuru,Mysuru,Coconut,Rabi,Drip,Non-Organic,819,233.0,27.0,51.0,Sandy loam,210.72,63.9,50.62,88,56,210,316.0,321.01
+2025,Mysuru,Periyapatana,Coconut,Rabi,Drip,Organic,2688,236.0,26.8,56.6,Sandy loam,210.72,63.9,50.62,88,56,210,110579.0,113654.09
+2025,Mysuru,Mysuru,Coconut,Rabi,Drip,Organic,1468,233.0,41.0,58.0,Sandy,210.72,63.9,50.62,88,56,210,9230.0,8069.38
+2025,Mysuru,Nanjangud,Coconut,Rabi,Basin,Non-Organic,82,2903.1,27.0,60.0,Sandy,210.72,63.9,50.62,88,56,210,3.0,2.88
+2025,Mysuru,Periyapatana,Coconut,Rabi,Basin,Non-Organic,4677,3729.8,27.2,57.5,Sandy loam,210.72,63.9,50.62,88,56,210,56.0,51.67
+2025,Mysuru,K.R.Nagar,Cardamum,Zaid,Drip,Non-Organic,4930,3512.4,27.2,54.0,Sandy loam,210.72,63.9,50.62,120,120,240,3368.0,3674.29
+2025,Mysuru,T-Narsipur,Pepper,Zaid,Basin,Organic,30,234.0,39.0,55.0,Alluvial,210.72,63.9,50.62,80,80,240,874.0,866.21
